@@ -1,0 +1,32 @@
+[
+ {
+   "cab_id": 8,
+   "cab_name": "Hyundai",
+   "cab_plate": "AMY-990",
+   "cab_type": "4-seater"
+ },
+ {
+   "cab_id": 21,
+   "cab_name": "Acura",
+   "cab_plate": "JST-451",
+   "cab_type": "5-seater"
+ },
+ {
+   "cab_id": 83,
+   "cab_name": "Bugatti",
+   "cab_plate": "ADX-403",
+   "cab_type": "5-seater"
+ },
+ {
+   "cab_id": 112,
+   "cab_name": "Chevrolet",
+   "cab_plate": "BMY-991",
+   "cab_type": "4-seater"
+ },
+ {
+   "cab_id": 245,
+   "cab_name": "Audi",
+   "cab_plate": "PFY-810",
+   "cab_type": "5-seater"
+ }
+]

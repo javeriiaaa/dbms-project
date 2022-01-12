@@ -1,0 +1,42 @@
+[
+ {
+   "booking_id": 89557,
+   "booking_date": "2020-08-20",
+   "booking_title": "Manahil Ali",
+   "booking_type": "Standard",
+   "booking_description": "in-progress",
+   "customer_id": 2578
+ },
+ {
+   "booking_id": 89558,
+   "booking_date": "2020-08-20",
+   "booking_title": "Mizha",
+   "booking_type": "Regular",
+   "booking_description": "confirmed",
+   "customer_id": 2579
+ },
+ {
+   "booking_id": 89559,
+   "booking_date": "2020-08-21",
+   "booking_title": "Ibrahim",
+   "booking_type": "Standard",
+   "booking_description": "confirmed",
+   "customer_id": 2580
+ },
+ {
+   "booking_id": 89560,
+   "booking_date": "2020-08-22",
+   "booking_title": "Malaika",
+   "booking_type": "Business",
+   "booking_description": "cancelled",
+   "customer_id": 2581
+ },
+ {
+   "booking_id": 89561,
+   "booking_date": "2020-08-23",
+   "booking_title": "Waseem",
+   "booking_type": "Standard",
+   "booking_description": "confirmed",
+   "customer_id": 2582
+ }
+]

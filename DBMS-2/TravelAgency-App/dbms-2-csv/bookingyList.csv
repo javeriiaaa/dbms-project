@@ -1,0 +1,6 @@
+"booking_id","booking_date","booking_title","booking_type","booking_description","customer_id"
+89557,"2020-08-20","Manahil Ali","Standard","in-progress",2578
+89558,"2020-08-20","Mizha","Regular","confirmed",2579
+89559,"2020-08-21","Ibrahim","Standard","confirmed",2580
+89560,"2020-08-22","Malaika","Business","cancelled",2581
+89561,"2020-08-23","Waseem","Standard","confirmed",2582

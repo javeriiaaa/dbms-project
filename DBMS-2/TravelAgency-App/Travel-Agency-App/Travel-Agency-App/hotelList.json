@@ -1,0 +1,47 @@
+[
+ {
+   "hotel_id": 13,
+   "hotel_name": "Luxus Grand Hotel",
+   "hotel_type": "5-star",
+   "hotel_charge": 3889,
+   "hotel_address": "Khayaban-e-Suhrwardy, opposite Convention Centre، G-5/1 G-5, Islamabad",
+   "hotel_ratings": 4.6,
+   "hotel_email": ""
+ },
+ {
+   "hotel_id": 18,
+   "hotel_name": "Hill View Hotel",
+   "hotel_type": "3-star",
+   "hotel_charge": 1900,
+   "hotel_address": "Main Jinnah Super Market, F-7 Markaz F 7 Markaz F-7, Lahore",
+   "hotel_ratings": 4.1,
+   "hotel_email": ""
+ },
+ {
+   "hotel_id": 19,
+   "hotel_name": "Avari Tower Karachi ",
+   "hotel_type": "4-star",
+   "hotel_charge": 4000,
+   "hotel_address": "Fatima Jinnah Road, 15503 Karachi, Pakistan",
+   "hotel_ratings": 4.4,
+   "hotel_email": ""
+ },
+ {
+   "hotel_id": 45,
+   "hotel_name": "Star Avenue, Faisal Cantonment, Karachi",
+   "hotel_type": "5-star",
+   "hotel_charge": 13000,
+   "hotel_address": "9 Abdullah Haroon Road, 75530 Karachi, Pakistan",
+   "hotel_ratings": 4.3,
+   "hotel_email": ""
+ },
+ {
+   "hotel_id": 81,
+   "hotel_name": "Karachi Marriott Hotel ",
+   "hotel_type": "5-star",
+   "hotel_charge": 10000,
+   "hotel_address": "9 Abdullah Haroon Road, 75530 Karachi, Pakistan",
+   "hotel_ratings": 4.5,
+   "hotel_email": ""
+ }
+]

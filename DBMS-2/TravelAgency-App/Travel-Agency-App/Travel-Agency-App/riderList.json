@@ -1,0 +1,42 @@
+[
+ {
+   "rider_id": 8,
+   "rider_name": "Kashif Hussaini",
+   "rider_phone": 3128934128,
+   "rider_status": 0,
+   "rider_age": 30,
+   "cab_id": 245
+ },
+ {
+   "rider_id": 15,
+   "rider_name": "Kamran Malik",
+   "rider_phone": 33345781234,
+   "rider_status": 0,
+   "rider_age": 26,
+   "cab_id": 83
+ },
+ {
+   "rider_id": 45,
+   "rider_name": "Afzal Khan",
+   "rider_phone": 3218935712,
+   "rider_status": 1,
+   "rider_age": 33,
+   "cab_id": 8
+ },
+ {
+   "rider_id": 92,
+   "rider_name": "Saad Ali",
+   "rider_phone": 3218045278,
+   "rider_status": 0,
+   "rider_age": 29,
+   "cab_id": 21
+ },
+ {
+   "rider_id": 112,
+   "rider_name": "Imran Abbasi",
+   "rider_phone": 31143821094,
+   "rider_status": 1,
+   "rider_age": 25,
+   "cab_id": 112
+ }
+]

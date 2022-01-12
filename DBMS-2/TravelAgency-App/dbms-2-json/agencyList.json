@@ -1,0 +1,83 @@
+[
+ {
+   "agency_id": 1,
+   "agency_name": "Alpine Trekkers and Tours-Islamabad",
+   "agency_type": "public",
+   "agency_address": "House# 465, Street 74, G-8/1, Islamabad",
+   "agency_description": "Travel, air ticketing, tour activities, tour packages and other facilities",
+   "agency_email": "",
+   "agency_phone": "+ 923008502223"
+ },
+ {
+   "agency_id": 2,
+   "agency_name": "Hamdan Touristik Services-Lahore",
+   "agency_type": "private",
+   "agency_address": "135 – F, First Floor, Raja Centre, Main Boulevard, Gulberg – II, Lahore, Punjab. Pakistan",
+   "agency_description": "Air ticketing, travel and tour, Hajj, Umrah services.",
+   "agency_email": "info@hamdantouristik.com",
+   "agency_phone": "+ 923444444404"
+ },
+ {
+   "agency_id": 3,
+   "agency_name": "Bestways Travels- Islamabad and Rawalpindi",
+   "agency_type": "private",
+   "agency_address": "Office 1, Block 4, Pindi Club Building,\nMall Road, Rawalpindi",
+   "agency_description": "IATA-certified, 30+ years of reliable services.",
+   "agency_email": "",
+   "agency_phone": "+ 923322872835"
+ },
+ {
+   "agency_id": 4,
+   "agency_name": "Premio Travel & Tour Pvt. Ltd",
+   "agency_type": "private",
+   "agency_address": "Bungalow No. B-102 Block 2 Gulshan-e-Iqbal, Karachi.",
+   "agency_description": "Tailor-made travel packages, hotel accommodation and car rental services",
+   "agency_email": "info@premiotravels.com",
+   "agency_phone": "+ 922134988210-11-12"
+ },
+ {
+   "agency_id": 5,
+   "agency_name": "Zeb Travels",
+   "agency_type": "private",
+   "agency_address": "Uni Plaza, Ground Floor, Hasrat Mohani Road, Karachi.",
+   "agency_description": "Since 40 years. Offices in Lahore, Karachi, Islamabad and Hunza",
+   "agency_email": "zeb@cyber.net.pk",
+   "agency_phone": "+ 922132411204"
+ },
+ {
+   "agency_id": 6,
+   "agency_name": "Bukhari Group ",
+   "agency_type": "private",
+   "agency_address": "Kheyaban-e-Roomi, Block 9 CliftonKarachi City, Sindh",
+   "agency_description": "Since 1973. worldwide tours, seasonal tours, Umrah & Hajj packages, accommodations, on the spot air ticketing services.",
+   "agency_email": "info@bukharigroup.com.pk",
+   "agency_phone": "+ 9221111552111"
+ },
+ {
+   "agency_id": 7,
+   "agency_name": "AromaTravels-Karachi",
+   "agency_type": "private",
+   "agency_address": "16, Sidco Avenue Centre, Strachen Road, Karachi, Pakistan",
+   "agency_description": "Umrah, hajj, domestic tour packages, international tour packages, rent a car and holiday packages.",
+   "agency_email": "",
+   "agency_phone": "+ 923000555405"
+ },
+ {
+   "agency_id": 8,
+   "agency_name": "Sufa International Travel and Tours (Pvt) Ltd",
+   "agency_type": "private",
+   "agency_address": "Office #7 Ground floor center point plaza Gulberg III، Main Boulevard Gulberg, Lahore",
+   "agency_description": "Packages for Hajj, Umrah, domestic and international tours, air ticketing and hotel bookings.",
+   "agency_email": "sufa_int@hotmail.com",
+   "agency_phone": "(042) 35761770"
+ },
+ {
+   "agency_id": 9,
+   "agency_name": "Total Travels-Karachi",
+   "agency_type": "private",
+   "agency_address": "Ground Floor, State Life Building No، 9 Jinnah Ave, F 6/1 Blue Area, Islamabad",
+   "agency_description": "Domestic and International travel packages, visa counselling, travel insurance, cruise services, sightseeing, hot air balloon services etc.",
+   "agency_email": "info@travel.com",
+   "agency_phone": "0336 (8728357)"
+ }
+]

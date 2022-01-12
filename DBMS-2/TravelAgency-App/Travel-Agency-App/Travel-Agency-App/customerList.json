@@ -1,0 +1,52 @@
+[
+ {
+   "customer_id": "2578",
+   "customer_name": "Manahil Ali",
+   "customer_address": "",
+   "customer_phone": 3458912390,
+   "customer_username": "mana_hil",
+   "customer_password": "manahil@345",
+   "customer_email": "manahilali@gmail.com",
+   "agency_id": 4
+ },
+ {
+   "customer_id": "2579",
+   "customer_name": "Ibrahim",
+   "customer_address": "",
+   "customer_phone": 3217892340,
+   "customer_username": "ibrahieem",
+   "customer_password": "ibra12",
+   "customer_email": "himibra@hotamil.com",
+   "agency_id": 9
+ },
+ {
+   "customer_id": "2580",
+   "customer_name": "Mizha Abrar",
+   "customer_address": "",
+   "customer_phone": 3228967901,
+   "customer_username": "minzha99",
+   "customer_password": "curator!!",
+   "customer_email": "mizha_abrar@yahoo.com",
+   "agency_id": 2
+ },
+ {
+   "customer_id": "2581",
+   "customer_name": "Malaika",
+   "customer_address": "",
+   "customer_phone": 3112390589,
+   "customer_username": "malaika_00",
+   "customer_password": "chowchow01",
+   "customer_email": "malaikkhan22@outlook.com",
+   "agency_id": 5
+ },
+ {
+   "customer_id": "2582",
+   "customer_name": "Waseem Abbas",
+   "customer_address": "",
+   "customer_phone": 3448945710,
+   "customer_username": "abbas_waseem",
+   "customer_password": "was33m22",
+   "customer_email": "wasimabbas@gmail.com",
+   "agency_id": 8
+ }
+]
